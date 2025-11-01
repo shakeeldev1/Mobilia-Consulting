@@ -10,6 +10,7 @@ import mob1 from "../../assets/Images/mob1.jpg"
 import mob2 from "../../assets/Images/mob2.jpg"
 import mob4 from "../../assets/Images/mob4.jpg"
 import { Link } from "react-router-dom";
+
 export default function Hero() {
   const slides = [
     {
